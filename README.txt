@@ -1,0 +1,1 @@
+Note: Javascript code in HelloPoint2 was modified to provide options for the user to choose which canvas area a point would show up.
